@@ -1,0 +1,5 @@
+numero1 = int(input("ingrese el numero 1: "))
+numero2 = int(input("ingrese el numero 2: "))
+numero3 = int(input("ingrese el numero 3: "))
+numeromayor =max(numero1,numero2,numero3)
+print("el numero mayor es: ", numeromayor )
